@@ -15,7 +15,7 @@ import pandas as pd
 import numpy as np
 
 # Constants
-API_KEY="65aa63863fe6f667679711ybx1c41ac"
+API_KEY="SOME_API_KEY"
 COUNTRY="IN"
 API_STRUCTURE=f'https://geocode.maps.co/search?postalcode={pincode}&country={COUNTRY}&api_key={API_KEY}'
 
